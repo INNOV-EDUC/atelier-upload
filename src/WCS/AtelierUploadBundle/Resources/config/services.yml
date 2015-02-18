@@ -1,0 +1,4 @@
+services:
+#    wcs_atelier_upload.example:
+#        class: WCS\AtelierUploadBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

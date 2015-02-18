@@ -1,0 +1,4 @@
+WCS\AtelierUploadBundle\Entity\Fly:
+    properties:
+        file:
+            - Image: ~

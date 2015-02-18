@@ -1,0 +1,7 @@
+wcs_atelier_upload_fly:
+    resource: "@WCSAtelierUploadBundle/Resources/config/routing/fly.yml"
+    prefix:   /fly
+
+wcs_atelier_upload_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: WCSAtelierUploadBundle:Default:index }
